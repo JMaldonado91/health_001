@@ -1,21 +1,21 @@
-County,State,"Fast-food restaurants, 2009","Fast-food restaurants, 2014","Fast-food restaurants (% change), 2009-14",Population
-Lawrence,AR,4,6,50,16970
-St Francis,AR,12,10,-16.666667,239
-Mississippi,AR,32,32,0,44232
-Randolph,AR,11,8,-27.272727,17561
-Ashley,AR,13,15,15.384615,20958
-Poinsett,AR,16,17,6.25,24144
-Cleburne,AR,17,16,-5.882353,25603
-Lafayette,AR,2,3,50,7163
-Bell,KY,25,24,-4,27841
-Lawrence,MS,8,6,-25,12601
-Claiborne,MS,6,5,-16.666667,9164
-Prentiss,MS,13,16,23.076923,1014
-Holmes,MS,6,4,-33.333333,18509
-Quitman,MS,3,4,33.333333,2235
-Yazoo,MS,11,10,-9.090909,27811
-Jasper,MS,5,4,-20,16529
-Coal,OK,1,1,0,5709
-Haskell,OK,4,4,0,1976
-Sevier,TN,89,97,8.988764,94570
-Cocke,TN,20,16,-20,35201
+ID,County,State,"Fast-food restaurants, 2009","Fast-food restaurants, 2014","Fast-food restaurants (% change), 2009-14",Population,Percentage
+1,Lawrence,AR,4,6,50,16970,38.8
+2,St Francis,AR,12,10,-16.666667,239,38.9
+3,Mississippi,AR,32,32,0,44232,38.8
+4,Randolph,AR,11,8,-27.272727,17561,38.6
+5,Ashley,AR,13,15,15.384615,20958,39.2
+6,Poinsett,AR,16,17,6.25,24144,38.5
+7,Cleburne,AR,17,16,-5.882353,25603,42.1
+8,Lafayette,AR,2,3,50,7163,38.8
+9,Bell,KY,25,24,-4,27841,38
+10,Lawrence,MS,8,6,-25,12601,38.4
+11,Claiborne,MS,6,5,-16.666667,9164,38.2
+12,Prentiss,MS,13,16,23.076923,1014,41.3
+13,Holmes,MS,6,4,-33.333333,18509,39.7
+14,Quitman,MS,3,4,33.333333,2235,38
+15,Yazoo,MS,11,10,-9.090909,27811,38
+16,Jasper,MS,5,4,-20,16529,40.8
+17,Coal,OK,1,1,0,5709,39.5
+18,Haskell,OK,4,4,0,1976,38.7
+19,Sevier,TN,89,97,8.988764,94570,38.3
+20,Cocke,TN,20,16,-20,35201,38.1
