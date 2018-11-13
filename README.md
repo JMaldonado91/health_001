@@ -1,6 +1,14 @@
 # Project Name: health_001
 
+Question I analyzed:
 Does having fast food restaurants in your county increase chance of physical inactivity?
+Is there a relationship between fast-food restaurant growth and physical inactivity in these selected 20 counties?
+
+Used: 
+- MYSQL 8.0 Database
+- Python 3.7
+- Anaconda3-Jupyter Notebook
+- CSV file to fetch data to MySQL 8.0 is MySQL_Schema.csv
 
 Resources:
 1. Source where I gathered data for county statistics on leisure-time physical inactivity in 2014. Once you go to page, select U.S. report with county data bubble, and then click on the Risk Factors tab.
