@@ -10,6 +10,10 @@ Used:
 - Anaconda3-Jupyter Notebook
 - CSV file to fetch data to MySQL 8.0 is MySQL_Schema.csv
 
+Run:
+- For Matplotlib graphs Run Restaurants.py & Bar_Graph_1.py  'Run Cells and Select Below' 
+- For Python script Run Health_1.py
+
 Resources:
 1. Source where I gathered data for county statistics on leisure-time physical inactivity in 2014. Once you go to page, select U.S. report with county data bubble, and then click on the Risk Factors tab.
 Select Leisure-Time Physical Inactivity	bubble and then click on Show Results. I used the top 20 counties with the highest percentage of leisure-time physical inactivity.
