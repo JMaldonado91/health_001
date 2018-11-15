@@ -11,7 +11,10 @@ Used:
 - CSV file to fetch data to MySQL 8.0 is MySQL_Schema.csv
 
 Run:
-- For Matplotlib graphs Run Restaurants.py & Bar_Graph_1.py  'Run Cells and Select Below' 
+- For Matplotlib graphs Run Bar_Graph_1 & Bar_Graph_2  'Run Cells and Select Below' 
+
+*I included the bar graph .png files for viewing purposes*
+
 - For Python script Run Health_1.py
 
 Resources:
